@@ -24,11 +24,11 @@
                                 <searchBar contentMode="redraw" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Rwg-eK-igD">
                                     <rect key="frame" x="0.0" y="27" width="414" height="44"/>
                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                                    <color key="barTintColor" red="1" green="0.0" blue="0.04830961332" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="barTintColor" red="0.96172684590000002" green="0.74798484759999995" blue="0.082226551980000007" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <textInputTraits key="textInputTraits"/>
                                 </searchBar>
                             </subviews>
-                            <color key="backgroundColor" red="1" green="0.0" blue="0.04830961332" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="backgroundColor" red="0.9617268458549223" green="0.74798484764478268" blue="0.082226551978781995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         </view>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="MovieCell" rowHeight="216" id="yRu-j4-ehL" customClass="MovieResultsTableViewCell" customModule="MovieDatabase" customModuleProvider="target">
